@@ -1,8 +1,6 @@
 <!-- Header -->
-'''html
-<?php include_once('_includes/header.html'); ?>
+<<insertHTML:[_includes/header.html]
 
-'''markdown
 # Judul Artikel
 
 ## Pendahuluan
@@ -18,5 +16,4 @@ Isi artikel Anda di sini.
 Kesimpulan dari artikel Anda di sini.
 
 <!-- Footer -->
-'''html
-<?php include_once('_includes/footer.html'); ?>
+<<insertHTML:[_includes/footer.html]
